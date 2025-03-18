@@ -6,5 +6,25 @@
     "downloadUrl": "https://raw.githubusercontent.com/med1245/medarabic/main/TukTukProvider.cs3",
     "iconUrl": "https://cdn4.cdn-telegram.org/file/rqdcUxem13Dw61G789hdyijS7oUKsZbXUnQOcU15vR1Eqw5KpdCBKCVvUanbTrBpNT-1LxxPMAtGBltkUP4nuvD8jCgwV3RmLz565AFrnCqqXIQHGnJ58bsTrnnV33M4I_CW-uXSCx95rM62liI2l194U4wwzghoe7qfx63cTiS-l8LYisGqEG1CJW8md0yTmGgpZiLZbSSeG58FpvLxEnqqv4nTk2c9Xj0hG4rbvjVnC3QQvkcjpugnPQxxXDC0Odc6JCv48XzJid5XZW7HcFWvHfKB3mRM_49RP1vOTUoN8VtJ7hrTs82I709BW7bY4Otj-52OqEuJqkiwErzlvg.jpg",
     "dependencies": []
-  }
+  },
+  {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=3isk.biz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 13531,
+        "status": 0,
+        "language": "ar",
+        "authors": [
+            "KingSlayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "3isk",
+        "url": "https://github.com/aymanbest/Arabico/raw/main/build/3isk.cs3",
+        "name": "3isk"
+    },
+    {
 ] 
