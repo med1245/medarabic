@@ -1,0 +1,10 @@
+[
+  {
+    "name": "TukTuk Cinema",
+    "version": "1.0.0",
+    "description": "A plugin to stream movies from TukTuk Cinema.",
+    "downloadUrl": "https://yourwebsite.com/cloudstream/TukTukProvider.cs3",
+    "iconUrl": "https://yourwebsite.com/cloudstream/tuktuk-icon.png",
+    "dependencies": []
+  }
+] 

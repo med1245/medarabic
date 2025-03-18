@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Plugin-Name: TukTuk Cinema
+Plugin-Version: 1.0.0
+Main-Class: com.example.cloudstream.TukTukProvider 

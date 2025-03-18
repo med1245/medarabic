@@ -1,0 +1,8 @@
+{
+  "name": "TukTuk Cinema Plugin Repository",
+  "description": "A repository for the TukTuk Cinema Cloudstream plugin.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "plugins.json"
+  ]
+} 
