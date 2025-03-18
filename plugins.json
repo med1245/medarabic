@@ -3,8 +3,8 @@
     "name": "TukTuk Cinema",
     "version": "1.0.0",
     "description": "A plugin to stream movies from TukTuk Cinema.",
-    "downloadUrl": "https://yourwebsite.com/cloudstream/TukTukProvider.cs3",
-    "iconUrl": "https://yourwebsite.com/cloudstream/tuktuk-icon.png",
+    "downloadUrl": "https://github.com/med1245/medarabic/raw//main/TukTukProvider.cs3",
+    "iconUrl": "https://cdn4.cdn-telegram.org/file/rqdcUxem13Dw61G789hdyijS7oUKsZbXUnQOcU15vR1Eqw5KpdCBKCVvUanbTrBpNT-1LxxPMAtGBltkUP4nuvD8jCgwV3RmLz565AFrnCqqXIQHGnJ58bsTrnnV33M4I_CW-uXSCx95rM62liI2l194U4wwzghoe7qfx63cTiS-l8LYisGqEG1CJW8md0yTmGgpZiLZbSSeG58FpvLxEnqqv4nTk2c9Xj0hG4rbvjVnC3QQvkcjpugnPQxxXDC0Odc6JCv48XzJid5XZW7HcFWvHfKB3mRM_49RP1vOTUoN8VtJ7hrTs82I709BW7bY4Otj-52OqEuJqkiwErzlvg.jpg",
     "dependencies": []
   }
 ] 
