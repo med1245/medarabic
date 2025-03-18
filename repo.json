@@ -1,8 +1,8 @@
 {
-  "name": "TukTuk Cinema Plugin Repository",
+  "name": "TukTuk",
   "description": "A repository for the TukTuk Cinema Cloudstream plugin.",
   "manifestVersion": 1,
   "pluginLists": [
-    "plugins.json"
+    "https://raw.githubusercontent.com/med1245/medarabic/main/plugins.json"
   ]
 } 
